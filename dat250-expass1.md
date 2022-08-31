@@ -1,4 +1,4 @@
-##Report on software tests
+## Report on software tests
 
 I had some issues with downloading the various software, 
 but using homebrew for both maven and postgres worked wonderfully
