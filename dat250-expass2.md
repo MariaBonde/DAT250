@@ -17,3 +17,6 @@ Here is a picture of my database
 
 
 ![dhs](resources/database_jpa.png?raw=true "atabase")
+
+Here is a link to my repository:
+https://github.com/MariaBonde/dat250-jpa-example
