@@ -9,6 +9,10 @@ was good. I initially wanted both the form and the list in
 the same page as the picture in the assignment text, but 
 I could not figure it out, and since the functionality was there, 
 I decided it was good enough.
+
+I had some minor issues trying to get the project into 
+my github, as I just cloned the initial project from
+the Spring tutorial. 
 Here is the github link. To run it, just  run the ServingWebContentApplication
 and then cd into AngularClient and write ng serve --open in the terminal.
 https://github.com/MariaBonde/dat250expass6
